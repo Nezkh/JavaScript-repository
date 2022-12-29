@@ -1,0 +1,19 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Primer Ejercicio de JS con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nezkh/JavaScript-repository.git"
+  },
+  "author": "Francisco Marchant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nezkh/JavaScript-repository/issues"
+  },
+  "homepage": "https://github.com/Nezkh/JavaScript-repository#readme"
+}
