@@ -6,9 +6,9 @@ const yo = {
     libro:{
         titulo:"El portal de los obeliscos",
         autor:"N. K. Jemisin",
-        fecha_anyo: new Date(2016, 07, 16) 
+        fecha_anyo: new Date(2016, 07, 16),
         url:"https://www.amazon.com/-/es/N-K-Jemisin/dp/8466662677"
-    }
-}
+    },
+};
 
 console.log(yo)
