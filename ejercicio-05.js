@@ -9,6 +9,6 @@ console.log(alturaRe)
 let pesoRe = Math.floor(pesoKg)
 console.log(pesoRe)
 
-let a = Number.MAX_VALUE + 1
+let a = Number.MAX_VALUE + 1 === Number.MAX_VALUE
 
 console.log(a)
