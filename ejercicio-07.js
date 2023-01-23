@@ -1,11 +1,10 @@
-const familia = ["Sandra", "Miguel", "Fabian", "Francisco"]
-const familia_set = new Set(familia)
-console.log(familia_set);
+const familia = new Set(["Sandra", "Miguel", "Fabian", "Francisco"])
+console.log(familia);
 
 // Añadimos mi nombre:
-familia_set.add("Francisco")
-console.log(familia_set);
+familia.add("Francisco")
+console.log(familia);
 
 // Añadim,os JS:
-familia_set.add("JavaScript")
-console.log(familia_set);
+familia.add("JavaScript")
+console.log(familia);
