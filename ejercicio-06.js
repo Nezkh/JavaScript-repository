@@ -26,8 +26,8 @@ console.log(directores)
 const titulos = peliculas.map(x => x.titulo)
 console.log(titulos);
 
-const dirTit = peliculas.map(x => x.director.concat(" - ",x.titulo))
+const dirTit = directores.concat(titulos)
 console.log(dirTit);
 
-const dirTitProp = [...peliculas]
+const dirTitProp = [...directores, ...titulos]
 console.log(dirTitProp);
